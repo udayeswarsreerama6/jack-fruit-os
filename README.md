@@ -4,8 +4,8 @@
 
 | Name | SRN |
 |------|-----|
-| J Naga Vamsi | PES1UG24CS201 |
-| K Pranay Krishna | PES1UG24CS242 |
+| Sreerama Udayeswar | PES2UG24CS516 |
+|Thai rishi saran datta | PES2UG24CS560 |
 
 ---
 
